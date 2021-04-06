@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+a, h1, img{
+    display: inline;
+
+}
+div{
+    background-color: darkgreen;
+}
+a{
+    text-align: right;
+    padding: 5px;
+    position: bottom;
+    color: grey;
+    text-decoration: none;
+}
+img, h1{
+    color: white;
+}
+a:hover{
+    background-color: lightblue;
+    color: white;
+    width: 70%;
+}
+.line{
+    
+    border: solid 3px;
+    color: #f6b03b;
+
+}
+.navigate a{
+    display: inline;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+}
+.navigate{
+    padding-left: 15%;
+}
+
+.head{
+    color: darkgreen;
+    padding: 10%;
+    padding-top: 20%;
+}
